@@ -3,3 +3,5 @@ I started this repository while going through the Machine Learning Zoomcamp to d
 
 Tools:
 1.Numpy
+2.Linear Algebra
+3.Pandas
