@@ -1,0 +1,2 @@
+This section contains basic Pandas operations used while working with tabular datasets in ML projects.
+Most examples use small CSV datasets to practice loading data, inspecting columns, and handling missing values before converting the data to NumPy arrays.
