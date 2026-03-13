@@ -1,1 +1,1 @@
-The dataset has been downloaded from kaggle which wad scrapped  from Edmunds and Twitter. Cars dataset with features includes make, model, year, engine, and other properties of the car which has been used to predict its price.
+The dataset has been downloaded from Kaggle, which was scraped  from Edmunds and Twitter. The Cars dataset with features includes make, model, year, engine, and other properties of the car, which has been used to predict its price.
